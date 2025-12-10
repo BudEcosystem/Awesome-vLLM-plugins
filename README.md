@@ -104,6 +104,12 @@ Examples you might encounter:
 - **vLLM Gaudi Plugin docs**
   https://docs.vllm.ai/projects/gaudi/en/latest/dev_guide/plugin_system.html
 
+- **vLLM Plugin System (official blog)**
+  https://blog.vllm.ai/2025/11/20/vllm-plugin-system.html
+
+- **Introducing vLLM Hardware Plugin - Ascend NPU (official blog)**
+  https://blog.vllm.ai/2025/05/12/hardware-plugin.html
+
 ### 🌍 Community Guides
 
 - **How to Build vLLM Plugins**
@@ -114,13 +120,8 @@ Examples you might encounter:
   – Practical guide showing how to replace forking/monkey‑patching with a general plugin that manages patches (e.g. priority-based scheduling).
   https://www.xugj520.cn/en/archives/customize-vllm-plugin-system-guide.html
 
-- **Introducing vLLM Hardware Plugin (Ascend + community story)**
-  – Blog from the vLLM project discussing the hardware-pluggable RFC and how Ascend's plugin became a reference design.
-  https://blog.vllm.ai/2025/05/12/hardware-plugin.html
 
-- **optimum-neuron vLLM plugin docs (AWS Trainium / Inferentia)**
-  – Hugging Face's guide on their vLLM platform plugin.
-  https://huggingface.co/docs/optimum-neuron/guides/vllm_plugin
+
 
 
 
