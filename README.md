@@ -106,7 +106,7 @@ Examples you might encounter:
 
 ### 🌍 Community Guides
 
-- **How to Build vLLM Plugins (BUD Ecosystem guide)**
+- **How to Build vLLM Plugins**
   – Deep dive into plugin lifecycle, plugin groups, and best practices for writing general & platform plugins.
   https://blog.budecosystem.com/how-to-build-vllm-plugins-a-comprehensive-developer-guide-with-tips-and-best-practices/
 
