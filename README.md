@@ -61,6 +61,16 @@ Plugins that implement custom decoding strategies, sampling methods, and logits 
 > 🔬 These decoder plugins are part of the [BudEcosystem vLLM Plugins](https://github.com/BudEcosystem/vllm-plugins) collection.
 
 
+## ⚡ Performance / Optimization Plugins
+
+Plugins that provide inference optimizations, speculative decoding, parallelism strategies, and performance enhancements for vLLM.
+
+| Plugin | Name | Repository | Notes |
+| ------ | ---- | ---------- | ----- |
+| ❄️ **Arctic Inference** | arctic-inference | [![GitHub](https://img.shields.io/badge/GitHub-repo-black?logo=github)](https://github.com/snowflakedb/ArcticInference) | Snowflake's comprehensive optimization suite: Arctic Ulysses (sequence parallelism), Shift Parallelism, speculative decoding (Arctic Speculator, Suffix Decoding), SwiftKV, and 16x faster embeddings. Achieves 3.4x faster request completion. |
+
+
+
 ## ⚙️ Feature / IO / Integration Plugins
 
 Plugins that focus on **features**, **scheduling**, **logging**, or **IO processing** rather than new hardware or models. Many of these are small code packages that hook into:
