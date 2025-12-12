@@ -35,6 +35,7 @@ Plugins that expose additional accelerators or platform backends using `vllm.pla
 | 🔶 **Tenstorrent** | `(from source)` | [![GitHub](https://img.shields.io/badge/GitHub-repo-black?logo=github)](https://github.com/dmadicTT/tt-vllm-plugin) | Platform plugin that extracts the Tenstorrent platform implementation from a vLLM fork and packages it as a standalone plugin, enabling vLLM v1 architecture models to run on Tenstorrent hardware. |
 | 🟣 **Cambricon MLU** | `(from source)` | [![GitHub](https://img.shields.io/badge/GitHub-repo-black?logo=github)](https://github.com/Cambricon/vllm-mlu) | Hardware plugin for Cambricon MLU accelerators. |
 | ⚡ **Rebellions ATOM / REBEL NPU** | `vllm-rbln` | [![GitHub](https://img.shields.io/badge/GitHub-repo-black?logo=github)](https://github.com/rebellions-sw/vllm-rbln) | Plugin for Rebellions NPUs (ATOM / REBEL). |
+| 🔴 **Baidu Kunlun XPU** | `(from source)` | [![GitHub](https://img.shields.io/badge/GitHub-repo-black?logo=github)](https://github.com/baidu/vLLM-Kunlun) | Hardware plugin for Kunlun XPU (Kunlun3 P800). Supports transformer, MoE, embedding, and multimodal models with quantization and LoRA. |
 
 
 ## 🧠 Model & Architecture Plugins
